@@ -23,7 +23,8 @@
 *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width=25/> **Flask** (basics)
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=25 /> **Figma** (basics from the developer perspective)
 
-
+#  Languages Statistic 📊
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdudziec&layout=compact)](https://github.com/mdudziec/github-readme-stats)
 
 # Take a look on my portfolio 👀
 
