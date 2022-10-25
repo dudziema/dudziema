@@ -4,8 +4,7 @@
 
 **I am Małgorzata Dudziec**
 
-*Currently:* Learning Front-End Development (I'd like to specialise in Vue.js)
-
+*Currently:* Working as Junior Vue Frontend Developer
 
 # 👩🏻‍💻 I'm currently learning
  
