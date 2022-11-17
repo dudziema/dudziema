@@ -9,6 +9,7 @@
 # 👩🏻‍💻 I'm currently learning
  
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width=25 /> **Nuxt**
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=25 /> **TypeScript**
           
 # Tech stack 🦾
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=25 /> **CSS** 
