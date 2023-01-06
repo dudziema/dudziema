@@ -1,10 +1,10 @@
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mdudziec.mdudziec) ![GitHub followers](https://img.shields.io/github/followers/mdudziec?style=social)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dudziema.dudziema) ![GitHub followers](https://img.shields.io/github/followers/dudziema?style=social)
 # Hey! 👋🏻
 
 **I am Małgorzata Dudziec**
 
-*Currently:* Working as Junior Vue Frontend Developer
+*Currently:* Working as Frontend Developer
 
 # 👩🏻‍💻 I'm currently learning
  
@@ -24,7 +24,7 @@
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=25 /> **Figma** (basics from the developer perspective)
 
 #  Languages Statistic 📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudziema&layout=compact)](https://github.com/mdudziec/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudziema&layout=compact)](https://github.com/dudziema/github-readme-stats)
 
 # Take a look on my portfolio 👀
 
