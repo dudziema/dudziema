@@ -18,9 +18,6 @@
  * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="25" /> **Vue.js**
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=25 /> **npm**
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=25 /> **Git**
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=25 /> **Python** (basics)
-*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25" /> **C** (basics)
-*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width=25/> **Flask** (basics)
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=25 /> **Figma** (basics from the developer perspective)
 
 #  Languages Statistic 📊
