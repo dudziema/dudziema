@@ -8,7 +8,8 @@
 
 # 👩🏻‍💻 I'm currently learning
  
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width=25 /> **Jest**
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=25/> **Python**
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width=25/> **React**
 
           
 # Tech stack 🦾
@@ -24,9 +25,7 @@
 #  Languages Statistic 📊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudziema&layout=compact)](https://github.com/dudziema/github-readme-stats)
 
-# Take a look on my portfolio 👀
 
-[<img src="https://img.shields.io/badge/click-me-ff69b4">](https://dudziema.com/)   🦄
 
 
 
